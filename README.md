@@ -54,7 +54,8 @@ while True:
     conn.close()
 ~~~
 ## OUPUT
-![Screenshot 2024-10-19 204831](https://github.com/user-attachments/assets/050cd8e1-4b64-4c36-8dfa-57f2c9501574)
+<img width="1594" height="819" alt="WhatsApp Image 2026-05-19 at 11 23 10" src="https://github.com/user-attachments/assets/bdc9683f-6b76-4a3c-a147-f75072d9dbec" />
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
